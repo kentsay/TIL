@@ -8,12 +8,12 @@ variety of languages and technologies.
 
 ### Categories
 
-* [Java](#java)
+* [Java](#Java)
 
 
 ### Java
 
-- [Read file in Java 8](java/read-file-java8.md)
+- [Read file in Java 8](Java/read-file-java8.md)
 
 ## About
 
