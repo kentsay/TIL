@@ -14,6 +14,7 @@ variety of languages and technologies.
 ### Java
 
 - [Read file in Java 8](Java/read-file-java8.md)
+- [Dependency testing in TestNG](testng/dependency_test.md)
 
 ## About
 
