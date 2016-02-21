@@ -13,7 +13,8 @@ variety of languages and technologies.
 
 ### Java
 
-- [Read file in Java 8](Java/read-file-java8.md)
+- [Streaming file in Java 8](Java/read-file-java8.md)
+- [Lambda Expression](Java/lambda-expression.md)
 - [Dependency testing in TestNG](testng/dependency_test.md)
 
 ## About
