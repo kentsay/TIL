@@ -9,13 +9,16 @@ variety of languages and technologies.
 ### Categories
 
 * [Java](#Java)
-
+* [nginx](#nginx)
 
 ### Java
 
 - [Streaming file in Java 8](Java/read-file-java8.md)
 - [Lambda Expression](Java/lambda-expression.md)
 - [Dependency testing in TestNG](testng/dependency_test.md)
+
+### nginx
+- [Setting Up PHP behind Nginx with FastCGI](nginx/nginx-php-fastcgi.md)
 
 ## About
 
