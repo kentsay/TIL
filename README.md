@@ -22,7 +22,7 @@ variety of languages and technologies.
 - [Setting Up PHP behind Nginx with FastCGI](nginx/nginx-php-fastcgi.md)
 
 ### leetcode
-- [Leetcode 7: Reverse Integer]
+- [Leetcode 7: Reverse Integer](leetcode/leetcode-7-reverse-integer.md)
 
 ## About
 
