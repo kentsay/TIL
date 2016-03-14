@@ -10,6 +10,7 @@ variety of languages and technologies.
 
 * [Java](#Java)
 * [nginx](#nginx)
+* [algorithm](#leetcode)
 
 ### Java
 
@@ -19,6 +20,9 @@ variety of languages and technologies.
 
 ### nginx
 - [Setting Up PHP behind Nginx with FastCGI](nginx/nginx-php-fastcgi.md)
+
+### leetcode
+- [Leetcode 7: Reverse Integer]
 
 ## About
 
