@@ -12,6 +12,7 @@ variety of languages and technologies.
 * [nginx](#nginx)
 * [algorithm](#leetcode)
 * [docker](#docker)
+* [interview](#interview)
 
 ### Java
 
@@ -27,6 +28,9 @@ variety of languages and technologies.
 
 ### docker
 - [Basic commands](docker/docker_fun.md)
+
+### interview
+- [Pitfalls in technical phonescreen](interview/pitfall_in_technical_phonescreen.md)
 
 ## About
 
