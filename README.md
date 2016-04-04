@@ -18,6 +18,7 @@ variety of languages and technologies.
 
 - [Streaming file in Java 8](Java/read-file-java8.md)
 - [Lambda Expression](Java/lambda-expression.md)
+- [In-Place algorithm](Java/in-place-algorithm.md)
 - [Dependency testing in TestNG](testng/dependency_test.md)
 
 ### nginx
