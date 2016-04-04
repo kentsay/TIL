@@ -10,7 +10,7 @@ variety of languages and technologies.
 
 * [Java](#Java)
 * [nginx](#nginx)
-* [algorithm](#leetcode)
+* [algorithm](#algorithm)
 * [docker](#docker)
 * [interview](#interview)
 
@@ -25,8 +25,8 @@ variety of languages and technologies.
 ### nginx
 - [Setting Up PHP behind Nginx with FastCGI](nginx/nginx-php-fastcgi.md)
 
-### leetcode
-- [Leetcode 7: Reverse Integer](leetcode/leetcode-7-reverse-integer.md)
+### algorithm
+- [Reverse Integer](algorithm/leetcode-7-reverse-integer.md)
 
 ### docker
 - [Basic commands](docker/docker_fun.md)
