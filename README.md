@@ -24,6 +24,7 @@ variety of languages and technologies.
 
 ### nginx
 - [Setting Up PHP behind Nginx with FastCGI](nginx/nginx-php-fastcgi.md)
+- [Nginx vs Apache](nginx/nginx-vs-apache.md)
 
 ### algorithm
 - [Reverse Integer](algorithm/leetcode-7-reverse-integer.md)
