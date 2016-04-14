@@ -9,18 +9,21 @@ variety of languages and technologies.
 ### Categories
 
 * [Java](#Java)
+* [Android](#android)
 * [nginx](#nginx)
 * [algorithm](#algorithm)
 * [docker](#docker)
 * [interview](#interview)
 
 ### Java
-
 - [Streaming file in Java 8](Java/read-file-java8.md)
 - [Lambda Expression](Java/lambda-expression.md)
 - [Collections.sort and Comparator in Java](Java/using-comparator-in-collections-sort.md)
 - [In-Place algorithm](Java/in-place-algorithm.md)
 - [Dependency testing in TestNG](testng/dependency_test.md)
+
+### android
+- [Keeping Your App Responsive - ANR](android/android-anr.md)
 
 ### nginx
 - [Setting Up PHP behind Nginx with FastCGI](nginx/nginx-php-fastcgi.md)
