@@ -28,6 +28,7 @@ variety of languages and technologies.
 ### nginx
 - [Setting Up PHP behind Nginx with FastCGI](nginx/nginx-php-fastcgi.md)
 - [Nginx as HTTP load balancer](nginx/nginx-load-balance.md)
+- [Nginx cache server](nginx/nginx-cache.md)
 - [Nginx vs Apache](nginx/nginx-vs-apache.md)
 
 ### algorithm
