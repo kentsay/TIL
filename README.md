@@ -41,6 +41,7 @@ variety of languages and technologies.
 
 ### interview
 - [Pitfalls in technical phonescreen](interview/pitfall_in_technical_phonescreen.md)
+- [GYG technical interview - phonescreen](interview/gyg_tech_interview_phonescreen.md)
 
 ## About
 
