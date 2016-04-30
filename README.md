@@ -21,6 +21,7 @@ variety of languages and technologies.
 - [Collections.sort and Comparator in Java](Java/using-comparator-in-collections-sort.md)
 - [In-Place algorithm](Java/in-place-algorithm.md)
 - [Dependency testing in TestNG](testng/dependency_test.md)
+- [Semaphore and Mutex in Java](Java/java-semaphore-mutex.md)
 
 ### android
 - [Keeping Your App Responsive - ANR](android/android-anr.md)
