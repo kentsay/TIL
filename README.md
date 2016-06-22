@@ -13,6 +13,7 @@ variety of languages and technologies.
 * [nginx](#nginx)
 * [algorithm](#algorithm)
 * [docker](#docker)
+* [performance-and-scaling](#performance-and-scaling)
 * [interview](#interview)
 
 ### Java
@@ -39,6 +40,9 @@ variety of languages and technologies.
 
 ### docker
 - [Basic commands](docker/docker_fun.md)
+
+### performance-and-scaling
+- [scaling up and scaling out](performance-and-scaling/scaling-up-scaling-out.md)
 
 ### interview
 - [Pitfalls in technical phonescreen](interview/pitfall_in_technical_phonescreen.md)
