@@ -10,6 +10,7 @@ variety of languages and technologies.
 
 * [Java](#Java)
 * [Android](#android)
+* [Python](#python)
 * [nginx](#nginx)
 * [algorithm](#algorithm)
 * [docker](#docker)
@@ -26,6 +27,10 @@ variety of languages and technologies.
 
 ### android
 - [Keeping Your App Responsive - ANR](android/android-anr.md)
+
+
+### python
+- [uWSGI](python/python-uwsgi.md)
 
 ### nginx
 - [Setting Up PHP behind Nginx with FastCGI](nginx/nginx-php-fastcgi.md)
