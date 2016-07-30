@@ -16,6 +16,11 @@ In our example, Nginx will handle client requests and proxy them to the uWSGI se
 
 client -> nginx (proxy to forward request)-> uWSGI(application server) -> python code
 
+### Steps
+* write python application
+* write uWSGI configuration and deploy your service as daemon
+* config Nginx to forward request by using uwsgi protocol to call uWSGI
+
 
 ### Reference
 * [uWSGI](https://github.com/unbit/uwsgi)
