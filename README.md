@@ -12,9 +12,11 @@ variety of languages and technologies.
 * [Android](#android)
 * [Python](#python)
 * [nginx](#nginx)
+* [Distributed computing](#DistributedComputing)
 * [algorithm](#algorithm)
 * [docker](#docker)
 * [performance-and-scaling](#performance-and-scaling)
+* [Nosql](#nosql)
 * [interview](#interview)
 
 ### Java
@@ -40,6 +42,9 @@ variety of languages and technologies.
 - [Nginx cache server](nginx/nginx-cache.md)
 - [Nginx vs Apache](nginx/nginx-vs-apache.md)
 
+### DistributedComputing
+- [hazelcast tutorial](TBD)
+
 ### algorithm
 - [Reverse Integer](algorithm/leetcode-7-reverse-integer.md)
 - [Trie(prefix tree)](algorithm/leetcode-208-trie.md)
@@ -50,6 +55,9 @@ variety of languages and technologies.
 
 ### performance-and-scaling
 - [scaling up and scaling out](performance-and-scaling/scaling-up-scaling-out.md)
+
+### Nosql
+- [RethinkDB tutorial](TBD)
 
 ### interview
 - [Pitfalls in technical phonescreen](interview/pitfall_in_technical_phonescreen.md)
