@@ -31,6 +31,7 @@ variety of languages and technologies.
 
 ### python
 - [uWSGI](python/python-uwsgi.md)
+- [virtualenv setup](python/python-virtualenv.md)
 
 ### nginx
 - [Setting Up PHP behind Nginx with FastCGI](nginx/nginx-php-fastcgi.md)
