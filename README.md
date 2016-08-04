@@ -12,7 +12,7 @@ variety of languages and technologies.
 * [Android](#android)
 * [Python](#python)
 * [nginx](#nginx)
-* [Distributed computing](#DistributedComputing)
+* [Distributed computing](#distributedComputing)
 * [algorithm](#algorithm)
 * [docker](#docker)
 * [performance-and-scaling](#performance-and-scaling)
@@ -56,8 +56,8 @@ variety of languages and technologies.
 ### performance-and-scaling
 - [scaling up and scaling out](performance-and-scaling/scaling-up-scaling-out.md)
 
-### Nosql
-- [RethinkDB tutorial](TBD)
+### nosql
+- [Tutorial for RethinkDB and ReQL](nosql/rethinkdb-reql-basic.md)
 
 ### interview
 - [Pitfalls in technical phonescreen](interview/pitfall_in_technical_phonescreen.md)
