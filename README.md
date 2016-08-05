@@ -32,6 +32,7 @@ variety of languages and technologies.
 
 
 ### python
+- [useful python syntax](python/python-syntax.md)
 - [uWSGI](python/python-uwsgi.md)
 - [virtualenv setup](python/python-virtualenv.md)
 
