@@ -9,6 +9,7 @@ variety of languages and technologies.
 ### Categories
 
 * [Java](#Java)
+* [Java Framework](#JavaFramework)
 * [Android](#android)
 * [Python](#python)
 * [nginx](#nginx)
@@ -27,6 +28,10 @@ variety of languages and technologies.
 - [Dependency testing in TestNG](testng/dependency_test.md)
 - [Semaphore and Mutex in Java](Java/java-semaphore-mutex.md)
 
+### JavaFramework
+- [Spring boot](javaframework/spring_boot.md)
+- [Elide](javaframework/elide.md)
+
 ### android
 - [Keeping Your App Responsive - ANR](android/android-anr.md)
 
@@ -35,6 +40,7 @@ variety of languages and technologies.
 - [useful python syntax](python/python-syntax.md)
 - [uWSGI](python/python-uwsgi.md)
 - [virtualenv setup](python/python-virtualenv.md)
+- [Django](TBD)
 
 ### nginx
 - [Setting Up PHP behind Nginx with FastCGI](nginx/nginx-php-fastcgi.md)
