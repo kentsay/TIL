@@ -9,7 +9,7 @@ variety of languages and technologies.
 ### Categories
 
 * [Java](#Java)
-* [Java Framework](#JavaFramework)
+* [Java solution stack](#JavaStack)
 * [Android](#android)
 * [Python](#python)
 * [nginx](#nginx)
@@ -28,9 +28,10 @@ variety of languages and technologies.
 - [Dependency testing in TestNG](testng/dependency_test.md)
 - [Semaphore and Mutex in Java](Java/java-semaphore-mutex.md)
 
-### JavaFramework
-- [Spring boot](javaframework/spring_boot.md)
-- [Elide](javaframework/elide.md)
+### JavaStack
+- [Spring boot](javastack/spring_boot.md)
+- [Elide](javastack/elide.md)
+- [JPA](javastack/jpa.md)
 
 ### android
 - [Keeping Your App Responsive - ANR](android/android-anr.md)
