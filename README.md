@@ -22,6 +22,7 @@ variety of languages and technologies.
 
 ### Java
 - [Streaming file in Java 8](Java/read-file-java8.md)
+- [Java 8 Streams](Java/java-8-stream.md)
 - [Lambda Expression](Java/lambda-expression.md)
 - [Collections.sort and Comparator in Java](Java/using-comparator-in-collections-sort.md)
 - [In-Place algorithm](Java/in-place-algorithm.md)
