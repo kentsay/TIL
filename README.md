@@ -58,6 +58,7 @@ variety of languages and technologies.
 - [Reverse Integer](algorithm/leetcode-7-reverse-integer.md)
 - [Trie(prefix tree)](algorithm/leetcode-208-trie.md)
 - [Invert binary tree](algorithm/leetcode-226-invert-binary-tree.md)
+- [Binary search tree operation](algorithm/bst.md)
 
 ### docker
 - [Basic commands](docker/docker_fun.md)
