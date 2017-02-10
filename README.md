@@ -69,6 +69,9 @@ variety of languages and technologies.
 ### nosql
 - [Tutorial for RethinkDB and ReQL](nosql/rethinkdb-reql-basic.md)
 
+### redis
+- [Redis common command](redis/redis-command.md)
+
 ### interview
 - [Pitfalls in technical phonescreen](interview/pitfall_in_technical_phonescreen.md)
 - [GYG technical interview](interview/gyg_tech_interview_phonescreen.md)
