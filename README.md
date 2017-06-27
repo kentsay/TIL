@@ -14,6 +14,7 @@ variety of languages and technologies.
 * [Python](#python)
 * [nginx](#nginx)
 * [Distributed computing](#distributedComputing)
+* [Edge service](#edgeservice)
 * [algorithm](#algorithm)
 * [docker](#docker)
 * [performance-and-scaling](#performance-and-scaling)
@@ -37,7 +38,6 @@ variety of languages and technologies.
 ### android
 - [Keeping Your App Responsive - ANR](android/android-anr.md)
 
-
 ### python
 - [useful python syntax](python/python-syntax.md)
 - [uWSGI](python/python-uwsgi.md)
@@ -53,6 +53,9 @@ variety of languages and technologies.
 
 ### DistributedComputing
 - [hazelcast tutorial](TBD)
+
+### EdgeService
+- [Netflix Zuul](edgeservice/zuul.md)
 
 ### algorithm
 - [Reverse integer](algorithm/leetcode-7-reverse-integer.md)
