@@ -26,6 +26,7 @@ Since I am still quite new to dialogflow, I will start with Dialogflow ES and di
   * Responses: Text, speech, or any visualization that will return to end users.
 * `Context`: Like a human conversation, context helps our bot to understand what's this converation is about. 
 
+```
             -----           -----
  TEXT       | A |           | I |
  ----->     | G |   ----->  | N |   ---> 
@@ -35,6 +36,7 @@ Since I am still quite new to dialogflow, I will start with Dialogflow ES and di
             -----           | T |
                             -----
 
+```
 ### Reference
 - [Basic flow](https://cloud.google.com/dialogflow/es/docs/basics)
 
