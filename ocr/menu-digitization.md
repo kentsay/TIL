@@ -11,6 +11,16 @@
 8. Lack of tools and services that allow easy custom model building
 
 
+### Simple work flow
+I have test using tesseract ocr. However, the first thing I need to solve is detect text block within a image. This is a cluster problem that can be solved by many other algorithms such as [CRNN-Keras](https://github.com/qjadud1994/CRNN-Keras) and [SSD\_detectors](https://github.com/mvoelk/ssd_detectors). Once we identity the text blocks, we can apply OCR over each text block and extract text of out it.
+
+### More comprehensive flow
+Comparing with the above flow, a more comprehensive flow will be pre-processing image first before applying anything. 
+The flow looks like this:
+1. Image pre-processing
+2. OCR
+3. Information extraction
+4. Review
 
 ### Reference
 - [Menu Digitization with OCR and Deep Learning](https://nanonets.com/blog/menu-digitization-ocr-deep-learning/)
